@@ -1,0 +1,7 @@
+Chair,Brown,Large
+Desk,Black,Medium
+Bookshelf,White,Small
+Sofa,Blue,Large
+Table,Red,Medium
+NORDEN Gateleg table,#33CC00,Small
+NORDEN Gateleg table,Black,Small

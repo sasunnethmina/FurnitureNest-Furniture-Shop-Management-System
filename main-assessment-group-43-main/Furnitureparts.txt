@@ -1,0 +1,8 @@
+5432,chair arm,wood,yes,32
+6543,table leg,teak,no,-
+54432,chair arm,wood,yes,72
+2443,sofa leg,leather,yes,40
+5432,chair arm,wood,yes,73
+8543,table leg,teak,no,-
+572,chair arm,wood,yes,22
+6643,table leg,teak,yes,28
